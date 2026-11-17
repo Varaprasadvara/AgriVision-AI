@@ -2,7 +2,6 @@ streamlit>=1.49
 pandas
 numpy
 scikit-learn
-opencv-python
 tifffile
 pillow
 matplotlib

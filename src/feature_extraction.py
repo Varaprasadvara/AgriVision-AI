@@ -1,5 +1,4 @@
 import numpy as np
-import cv2
 
 def extract_hyperspectral_features(img_arr):
     # Statistics per channel (125 channels)
