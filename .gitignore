@@ -1,0 +1,26 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+env/
+
+# Secrets
+.env
+.streamlit/secrets.toml
+
+# IDE
+.vscode/
+
+# Cache
+.pytest_cache/
+.streamlit/cache/
+
+# System
+.DS_Store
+Thumbs.db
+
+# Large datasets - keep locally, do not upload to GitHub
+pest/classification/
+beyond-visible-spectrum-ai-for-agriculture-P1/
+
